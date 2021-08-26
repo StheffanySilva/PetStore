@@ -1,0 +1,18 @@
+{
+  "id": 1995061926,
+  "category": {
+    "id": 1,
+    "name": "CODOG01"
+  },
+  "name": "Snoopy",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210826,
+      "name": "data"
+    }
+  ],
+  "status": "donated"
+}
